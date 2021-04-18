@@ -1,3 +1,37 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://ahomeformo.pomeroy.me"
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
+languageCode = "en-gb"
+
+theme = "hugo-scroll"
+title = "A Home for Mo"
+
+# Needed for publishing via GitHub Pages
+publishDir = "docs"
+
+[params]
+    copyright = "© [Rob Pomeroy](https://pomeroy.me) 2021"
+    description = "The mission for fund a home for a very special boy"
+    favicon = "images/favicon.png"
+
+    # For structured data templates.
+    # See https://gohugo.io/templates/internal#twitter-cards and
+    # https://gohugo.io/templates/internal#open-graph.
+    images = ["images/cover-image.jpg"]
+
+    # For site_name on Hugo's internal opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "A Home for Mo"
+
+    # Whether to hide theme author's design tag
+    # hidedesignbyline = true
+
+    [params.meta]
+        keywords = "disability, special needs, charity"
+
+[markup]
+    [markup.goldmark.renderer]
+        unsafe=true
