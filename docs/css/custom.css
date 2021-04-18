@@ -1,0 +1,41 @@
+#site-head {
+    background-color: rgb(18, 19, 73);
+}
+
+#site-head-content {
+    color: rgb(18, 19, 73);
+    background-color: rgba(224, 218, 204, 0.45);
+    width: 100%;
+    max-width: 100%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+a.btn {
+    color: white;
+    background-color: rgb(48, 52, 74);
+}
+a.btn:hover {
+    color: white;
+    background-color: rgb(92, 53, 22);
+}
+
+/* Mini nav */
+a.fn-item {
+    color: rgb(21, 16, 50);   
+}
+a.fn-item.active {
+    color: rgb(50, 16, 8);   
+}
+a:hover, a:hover.fn-item {
+    color: rgb(251, 145, 81);
+}
+
+.post-holder.odd {
+    /*background: rgb(49, 60, 145);*/
+    background: rgb(107, 118, 203);
+}
+
+.site-footer {
+    background-color: rgb(18, 19, 73);;
+}
