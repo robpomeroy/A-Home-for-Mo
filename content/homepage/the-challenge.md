@@ -41,7 +41,7 @@ I need a home:
 * In Chester (it needs to be near
   [my school](https://www.deebanksschool.co.uk/)&nbsp;{{<icon class="fa fa-graduation-cap">}};
   my body makes it difficult to go long distances - sometimes I need sedation,
-  to be able to travel
+  to be able to travel)
 * Close to my GP, pharmacy and hospital - especially the GP & pharmacy; they
   know me well and are good at handling all my many (20+!) prescriptions
 * With a bedroom and bathroom downstairs for me

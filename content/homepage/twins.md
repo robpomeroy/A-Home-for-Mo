@@ -16,7 +16,7 @@ Here's a bit more about me and my twin.
 * **Likes:** cuddles, good music, being talked to, hot baths
 * **Dislikes:** sudden noises, being in pain
 * **Main challenges:** severe spastic cerebral palsy, epilepsy, no speech,
-  vision impairment, profound and multiple learning difficulties...
+  vision impairment, profound and multiple learning difficulties and more
 * **Superpower:** being gorgeous
 
 #### James

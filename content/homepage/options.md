@@ -47,11 +47,8 @@ wheelchair accessible?
 *Additional cost ~ £293,000. Practicality: uncertain*
 
 Raising a bridging loan could enable us to buy a new house and spend two or
-three months undertaking the adaptations before moving in. This would depend on:
-
-* Finding a buyer for our house who was willing to wait this long before moving
-  in - leaving three months between exchange of contracts and completion.
-* Finding a lender willing to provide this sort of finance on these terms.
+three months undertaking the adaptations before moving in. This would depend on
+finding a lender willing to provide this sort of finance on these terms.
 
 | Item | Cost |
 | :- | -: |
@@ -95,7 +92,7 @@ Pros:
   to move straight into a finished house would be amazing
 * We could rent out or later on sell our original house, to help with the
   ongoing costs of my care
-* There would be no pressure to complete adapatation works within a fixed time
+* There would be no pressure to complete adaptation works within a fixed time
 * Only need to move once
 
 Cons:
