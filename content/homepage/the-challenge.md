@@ -5,6 +5,7 @@ header_menu: true
 ---
 
 > Being disabled is expensive. Being profoundly disabled is *really* expensive.
+  (Remember my £11,000 bath?)
 
 We have a big problem&nbsp;{{<icon class="fa fa-bug">}}. Any house I move to
 needs to be adapted for me. That can include:

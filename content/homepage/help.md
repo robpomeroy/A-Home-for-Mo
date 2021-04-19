@@ -15,7 +15,8 @@ though!)
 I would love it if you could:
 
 * Get the word out by sending a <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Please help find a home for Mo!" data-url="https://ahomeformo.pomeroy.me" data-via="robpomeroy" data-hashtags="ahomeformo" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> to your followers.
-* Send a donation of any amount via -- insert links --
+* Send a donation of any amount via
+  [my GoFundMe page](https://www.gofundme.com/f/a-home-for-mo).
 * Contribute artwork, graphic design or web skills, to make this site more
   beautiful. My dad's a geek, not an artist, bless him.
 * Tell your friends, family and colleagues about me!

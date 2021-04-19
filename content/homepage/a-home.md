@@ -27,12 +27,17 @@ my two wheelchairs&nbsp;{{<icon class="fa fa-wheelchair">}}
 bed&nbsp;{{<icon class="fa fa-bed">}} and
 bath&nbsp;{{<icon class="fa fa-bath">}}, my hoists - everything.
 
-[ insert more about the bath ]
+The bath has always been one of my happiest places. I have a very special bath,
+which goes up and down for my carers. It cost £11,000 (!) and has a spa function
+which I *love*. Fortunately the bath can move with me, though there will be a
+relocation fee.
 
 ![specialist height adjustable bath](images/astor-bannerman-bath.jpg)
 
-At the same time, it can be difficult for the rest of my family, when there are
-carers in the home all day and all night. It makes it hard to have a private
-family life. Sometimes I'm noisy at night and wake everyone up. My mum is
-basically a superhero&nbsp;{{<icon class="fa fa-superpowers">}}. But even
-superheroes need to sleep.
+#### Privacy
+
+Though we all want to live together, it can be difficult for the rest of my
+family, when there are carers in the home all day and all night. It makes it
+hard to have a private family life. Sometimes I'm noisy at night and wake
+everyone up. My mum is basically a superhero&nbsp;{{<icon class="fa fa-superpowers">}}.
+But even superheroes need to sleep.

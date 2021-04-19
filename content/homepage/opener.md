@@ -3,5 +3,7 @@ title: "Hello!"
 weight: 1
 ---
 
-Thanks so much for visiting my website! Please take a look around and let [my
-dad](https://pomeroy.me/about/) know if you can help. {{<icon class="fa fa-smile-o">}}
+Thanks so much for visiting my website! To donate, go straight to
+[my GoFundMe page](https://www.gofundme.com/f/a-home-for-mo).
+Love, Mo {{<icon class="fa fa-smile-o">}}
+

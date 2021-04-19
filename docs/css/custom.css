@@ -39,6 +39,9 @@ a:hover, a:hover.fn-item {
 .site-footer {
     background-color: rgb(18, 19, 73);;
 }
+.site-footer a:hover {
+    color: rgb(251, 145, 81);
+}
 
 /* Table */
 table th,
