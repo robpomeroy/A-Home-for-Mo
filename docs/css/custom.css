@@ -39,3 +39,27 @@ a:hover, a:hover.fn-item {
 .site-footer {
     background-color: rgb(18, 19, 73);;
 }
+
+/* Table */
+table th,
+table td {
+    color: white;
+    background-color: rgb(39, 50, 135);
+}
+table caption + thead tr:first-child th,
+table caption + thead tr:first-child td,
+table colgroup + thead tr:first-child th,
+table colgroup + thead tr:first-child td,
+table thead:first-child tr:first-child th,
+table thead:first-child tr:first-child td {
+    color: black;
+    background-color: rgb(129, 140, 245);
+}
+table tbody > tr:nth-child(odd) > td,
+table tbody > tr:nth-child(odd) > th {
+    background-color: rgb(49, 60, 145);
+}
+table tbody > tr:last-child > td {
+    background-color: rgb(69, 80, 185);
+    font-weight: bold;
+}
