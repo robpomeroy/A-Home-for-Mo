@@ -12,8 +12,6 @@ Here's a bit more about me and my twin.
 
 #### Morgan
 
-[ insert video clip from Royal Liv Phil ]
-
 * **Nickname:** Mo
 * **Likes:** cuddles, good music, being talked to, hot baths
 * **Dislikes:** sudden noises, being in pain
