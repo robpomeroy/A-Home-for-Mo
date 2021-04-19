@@ -1,6 +1,6 @@
 ---
 title: "Help"
-weight: 5
+weight: 6
 header_menu: true
 ---
 
@@ -20,4 +20,4 @@ I would love it if you could:
   beautiful. My dad's a geek, not an artist, bless him.
 * Tell your friends, family and colleagues about me!
 
-Contact details are below.
+[Contact details are below](#contact).

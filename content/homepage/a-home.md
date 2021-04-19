@@ -15,14 +15,17 @@ It's important for me to be near my parents and especially my brother (what can
 I say - he needs me!). They know me best and what I need. So I need my family
 around me. But I also need my carers.
 
+Also, I've never been able to have my friends round. There just isn't enough
+room for all the wheelchairs!
+
 ![a ceiling track hoist](images/track-hoist.jpg)
 
 Home is the best place for me where I have everything I need. It's like having a
 hospital in my home. And for a hospital, you need a **lot** of space. Space for
-my two wheelchairs {{<icon class="fa fa-wheelchair">}}
-{{<icon class="fa fa-wheelchair-alt">}}, all my supplies, my special bed and
-{{<icon class="fa fa-bed">}} bath {{<icon class="fa fa-bath">}}, my hoists -
-everything.
+my two wheelchairs&nbsp;{{<icon class="fa fa-wheelchair">}}
+{{<icon class="fa fa-wheelchair-alt">}}, all my supplies, my special
+bed&nbsp;{{<icon class="fa fa-bed">}} and
+bath&nbsp;{{<icon class="fa fa-bath">}}, my hoists - everything.
 
 [ insert more about the bath ]
 
@@ -31,5 +34,5 @@ everything.
 At the same time, it can be difficult for the rest of my family, when there are
 carers in the home all day and all night. It makes it hard to have a private
 family life. Sometimes I'm noisy at night and wake everyone up. My mum is
-basically a {{<icon class="fa fa-superpowers">}} superhero. But even superheroes
-need to sleep.
+basically a superhero&nbsp;{{<icon class="fa fa-superpowers">}}. But even
+superheroes need to sleep.
