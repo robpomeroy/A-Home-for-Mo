@@ -29,5 +29,5 @@ severity of my condition. And I have a lot of seizures. It hurts a lot, but my
 Mum and Dad tell me I'm very brave.
 
 I love being with my friends and family - especially my brother James. He has
-severe learning difficults and is on the autistic spectrum. He makes me laugh.
+severe learning difficulty and is on the autistic spectrum. He makes me laugh.
 Like a lot of identical twins, we have a very special bond.

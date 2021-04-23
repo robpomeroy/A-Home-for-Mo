@@ -3,7 +3,10 @@ title: "Hello!"
 weight: 1
 ---
 
-Thanks so much for visiting my website! To donate, go straight to
+Thanks so much for visiting my website! I cannot talk or communicate, so my dad
+made this website for me, to tell my story.
+
+To donate, go straight to
 [my GoFundMe page](https://www.gofundme.com/f/a-home-for-mo) or use the widget
 below.
 
