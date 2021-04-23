@@ -10,3 +10,4 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp;[ahfm@pomeroy.me](mailto:ahfm@pomeroy.me)
 
+[FAQs](faqs)

@@ -53,3 +53,5 @@ I need a home:
 Houses meeting all these requirements tend to be at least £500,000. In addition,
 adaptations could cost another £100,000 or more. This means spending ~ £300,000
 more than my current house is worth. Somehow we need to raise that much.
+
+You might find [the FAQs](faqs) answer some questions.
