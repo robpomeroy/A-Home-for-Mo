@@ -22,5 +22,5 @@ there's is no way to make it work by extending.
 **Q: Chester seems expensive. Can't you move somewhere cheaper?**
 
 A: We have considered this, but there are many things anchoring us to Chester,
-from the boys' school to the specialist medical professionals old in all aspects
+from the boys' school to the specialist medical professionals involved in all aspects
 of Mo's care.
