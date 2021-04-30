@@ -16,7 +16,8 @@ I say - he needs me!). They know me best and what I need. So I need my family
 around me. But I also need my carers.
 
 Also, I've never been able to have my friends round. There just isn't enough
-room for all the wheelchairs!
+room for all the wheelchairs! It would be amazing to have space for them to
+visit and perhaps watch a film or enjoy some music therapy together.
 
 ![a ceiling track hoist](images/track-hoist.jpg)
 

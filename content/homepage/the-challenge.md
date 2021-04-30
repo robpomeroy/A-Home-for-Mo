@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 > Being disabled is expensive. Being profoundly disabled is *really* expensive.
-  (Remember my £11,000 bath?)
+  (Remember my &pound;11,000 bath?)
 
 We have a big problem&nbsp;{{<icon class="fa fa-bug">}}. Any house I move to
 needs to be adapted for me. That can include:
@@ -19,7 +19,7 @@ needs to be adapted for me. That can include:
 ![building work](images/building-work.jpg)
 
 Mum and Dad can't adapt a house while I'm living there. They can't afford to
-buy another house without selling the existing house. There aren't many places
+buy another house without selling the existing one. There aren't many places
 suitable for me to move to while work is underway and my brother really doesn't
 like to be away from me. Staying together is always the best option.
 
@@ -50,8 +50,9 @@ I need a home:
 * Ideally, with space for my own washing machine (I won't explain why!)
 * Where my family can have privacy
 
-Houses meeting all these requirements tend to be at least £500,000. In addition,
-adaptations could cost another £100,000 or more. This means spending ~ £300,000
-more than my current house is worth. Somehow we need to raise that much.
+Houses meeting all these requirements tend to be at least &pound;500,000. In addition,
+adaptations and essential renovation could cost another &pound;100,000 or more. This
+means spending ~&pound;300,000 more than my current house is worth. Somehow we
+need to raise that much.
 
-You might find [the FAQs](faqs) answer some questions.
+Do you have questions? [The FAQs](faqs) might help.

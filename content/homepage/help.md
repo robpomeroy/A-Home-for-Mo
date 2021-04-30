@@ -19,6 +19,8 @@ I would love it if you could:
   [my GoFundMe page](https://www.gofundme.com/f/a-home-for-mo).
 * Contribute artwork, graphic design or web skills, to make this site more
   beautiful. My dad's a geek, not an artist, bless him.
+* If you have connections with charities or media outlets, tell them my story -
+  perhaps they can help or spread the word?
 * Tell your friends, family and colleagues about me!
 
 [Contact details are below](#contact).

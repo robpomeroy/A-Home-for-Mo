@@ -14,8 +14,8 @@ survivors of [twin-to-twin transfusion
 syndrome](https://en.wikipedia.org/wiki/Twin-to-twin_transfusion_syndrome).
 Because of this condition, I am profoundly disabled
 {{<icon class="fa fa-wheelchair-alt">}} , quadriplegic with severe spastic
-cerebral palsy, epilepsy and profound learning difficulties. We live with our Mum
-&amp; Dad in Chester in the UK.
+cerebral palsy, epilepsy and profound learning difficulties. We live with our
+Mum &amp; Dad in Chester in the UK.
 
 ![my family](images/family.jpg)
 
@@ -29,5 +29,5 @@ severity of my condition. And I have a lot of seizures. It hurts a lot, but my
 Mum and Dad tell me I'm very brave.
 
 I love being with my friends and family - especially my brother James. He has
-severe learning difficulty and is on the autistic spectrum. He makes me laugh.
+severe learning difficulties and is on the autistic spectrum. He makes me laugh.
 Like a lot of identical twins, we have a very special bond.
