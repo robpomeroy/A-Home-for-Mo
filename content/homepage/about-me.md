@@ -4,8 +4,6 @@ weight: 2
 header_menu: true
 ---
 
-![me and my brother](images/twins.jpg)
-
 ##### Hello!
 
 My identical twin James and I {{<icon class="fa fa-male">}}
@@ -17,7 +15,7 @@ Because of this condition, I am profoundly disabled
 cerebral palsy, epilepsy and profound learning difficulties. We live with our
 Mum &amp; Dad in Chester in the UK.
 
-![my family](images/family.jpg)
+![me and my brother](images/twins.jpg)
 
 ##### Highs {{<icon class="fa fa-thumbs-up">}} and Lows {{<icon class="fa fa-thumbs-down">}}
 
