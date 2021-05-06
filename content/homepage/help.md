@@ -4,7 +4,7 @@ weight: 6
 header_menu: true
 ---
 
-To do any of this, we're going to need help. Help from our family, friends and
+To do any of this, I'm going to need help. Help from our family, friends and
 strangers. There's no getting round it: the things I most need, to find this
 new home and keep my family together, are love and money. (Not
 [love *of* money](https://www.biblegateway.com/passage/?search=1+Tim+6%3A10&version=ESVUK)

@@ -6,18 +6,19 @@ header_menu: true
 
 I live with my family in a lovely home in Chester, England. As I've grown older,
 and needed more and more help, the house has become too small for me. Soon I
-will need two-to-one care, 24 hours a day. We need more space for my supplies,
-my equipment and my carers. And we need to keep the family together.
+will need two carers with me, round the clock. I need more space for my
+supplies, my equipment and my carers. And it's important to keep my family
+together.
 
 #### Why a new home?
 
 It's important for me to be near my parents and especially my brother (what can
-I say - he needs me!). They know me best and what I need. So I need my family
-around me. But I also need my carers.
+I say - he needs me!). They know me best and what I need. So I have to have my
+family around me. But I also need my carers.
 
-Also, I've never been able to have my friends round. There just isn't enough
-room for all the wheelchairs! It would be amazing to have space for them to
-visit and perhaps watch a film or enjoy some music therapy together.
+And I've never been able to have friends round to my house. There just isn't
+enough room for all the wheelchairs! It would be amazing to have space for them
+to visit and perhaps watch a film or enjoy some music therapy together.
 
 ![a ceiling track hoist](images/track-hoist.jpg)
 
