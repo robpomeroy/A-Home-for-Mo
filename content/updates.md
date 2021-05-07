@@ -41,3 +41,5 @@ These two little words seem far too small for the occasion. And yet they are
 the truest thing we can say right now: **thank you**.
 
 *"Thank you" image courtesy of [Marco Verch](https://www.flickr.com/photos/30478819@N08/45219195192).*
+
+[Main page](/) | [Fundraising site](https://www.gofundme.com/f/a-home-for-mo)
