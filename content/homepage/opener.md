@@ -3,6 +3,8 @@ title: "Hello!"
 weight: 1
 ---
 
+**New**: read our [campaign updates here](updates)
+
 {{<youtube kGM9KMMgS-A >}}
 
 Thanks so much for visiting my website! I cannot talk or communicate, so my dad
