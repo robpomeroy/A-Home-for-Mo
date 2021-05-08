@@ -26,14 +26,14 @@ that even possible!), we had raised the full &pound;15,000 and then some.
 
 But more than that, people were telling us, "Be bold", "Aim higher"! So this
 morning, with feelings I can't even begin to describe, I've raised the target,
-setting it to an amount that removes the need for us to take on massive debt,
-to make this proejct happen. Will we meet that target? I have absolutely no
-idea. Yesterday I might have said "Not a chance!" Today I am humbled, thankful
-and ready to wait and see.
+setting it to an amount that expands our options significantly, to make this
+project happen. Will we meet that target? I have absolutely no idea. Yesterday I
+might have said "Not a chance!" Today I am humbled, thankful and ready to wait
+and see.
 
 The last 16+ years of our boys' lives have been quite a journey. Like many
-parents of child with special needs, we find this to be a rollercoaster.
-Wiithout doubt, yesterday was one of the highs, beyond our wildest expectations.
+parents of children with special needs, we find this to be a rollercoaster.
+Without doubt, yesterday was one of the highs, beyond our wildest expectations.
 We are grateful to you and we are grateful to God who has sustained us
 throughout.
 
