@@ -23,4 +23,9 @@ I would love it if you could:
   perhaps they can help or spread the word?
 * Tell your friends, family and colleagues about me!
 
+##### Pledges
+
+Some people have pledged their support in other, innovative ways. Read more
+about these on the [pledges](pledges) page. They're inspirational!
+
 [Contact details are below](#contact).
