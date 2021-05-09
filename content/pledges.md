@@ -18,3 +18,5 @@ inspiration for other ways to help with this campaign.
   me to point out his dazzling good looks.
 * **Estate agency**: Gareth Friend, of local estate agents [Carmen Friend](https://www.carmanfriend.com/)
   has very kindly offered his services free of charge.
+
+[Main page](/) | [Fundraising site](https://www.gofundme.com/f/a-home-for-mo)
