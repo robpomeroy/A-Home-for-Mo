@@ -6,6 +6,8 @@ In addition to the amounts donated, some fabulous people have offered their
 suport in other ways. These pledges are incredible and may offer some
 inspiration for other ways to help with this campaign.
 
+* **Press release**: Hannah, a PR manager, has gifted her time to write a press
+  release for the campaign.
 * **Interest-free loan**: to our utter astonishment some very kind friends have
   offered, in place of bridging finance, an interest-free loan. This could
   enable us to complete the purchase of the new home before we complete the
@@ -16,6 +18,8 @@ inspiration for other ways to help with this campaign.
   offered to put on a show, with all profits being donated to this cause. The
   show is in the process of being arranged; details to follow. Oh, David asked
   me to point out his dazzling good looks.
+* **QS &amp; plans**: Bob, a Quantity Surveyor has offered his services for any
+  adaptations, including drawing up plans, at no cost to us.
 * **Estate agency**: Gareth Friend, of local estate agents [Carmen Friend](https://www.carmanfriend.com/)
   has very kindly offered his services free of charge.
 
