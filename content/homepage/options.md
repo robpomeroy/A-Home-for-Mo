@@ -52,10 +52,3 @@ The asking price is &pound;600,000. Our house is worth about half that!
 
 <a href="https://www.rightmove.co.uk/properties/72688284" target="_blank"><img src="images/capenhurst-wheelchair-adapted-house.jpg" alt=/>
 <i>wheelchair adapted house in Capenhurst, on RightMove, &pound;600k</i></a>
-
-And here, just for fun, is another house that *could* be suitable, with some
-alteration. It's more than a MEEEEEEELLION pounds! (No, we could not afford
-this in a thousand lifetimes! Ha ha!)
-
-<a href="https://www.rightmove.co.uk/properties/105467945" target="_blank"><img src="images/mollington-house.jpg" alt=/>
-<i>spacious house in Mollington, on RightMove, &pound;1.25m</i></a>
