@@ -7,6 +7,16 @@ title: "FAQs"
     caption="*James on the left, Morgan on the right: incubator transport*"
 >}}
 
+**Q: Have to tried DIY SOS?**
+
+We've been asked this quite a few times and love the fact that people think of
+us for this show. Unfortunately, the [DIY SOS application form](https://www.bbc.co.uk/send/u19819112)
+says, "we can only accept applications from UK homeowners of private residences
+who **own one single property**" [emphasis added]. This doesn't fit our
+circumstances because (a) we do not yet own the house that will need to be
+adapted, and (b) at that point, if things work out the way we anticipate, we
+will own two houses (albeit briefly and backed by short-term borrowing).
+
 **Q: What do you most need in a home?**
 
 A: Sufficient ground floor space for Mo (bedroom, bathroom, lounge and utility
