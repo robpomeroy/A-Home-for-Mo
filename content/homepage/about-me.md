@@ -23,8 +23,8 @@ Like many people, I have a mixed life. I smile a lot
 {{<icon class="fa fa-smile-o">}} and I love cuddles
 {{<icon class="fa fa-heart">}}. But sometimes life is very difficult.
 {{<icon class="fa fa-frown-o">}} My body is in constant tension because of the
-severity of my condition. And I have a lot of seizures. It hurts a lot, but my
-Mum and Dad tell me I'm very brave.
+severity of my condition. And I have seizures most days. It hurts a lot, but
+my Mum and Dad tell me I'm very brave.
 
 I love being with my friends and family - especially my brother James. He has
 severe learning difficulties and is on the autistic spectrum. He makes me laugh.
