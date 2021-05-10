@@ -22,5 +22,7 @@ inspiration for other ways to help with this campaign.
   adaptations, including drawing up plans, at no cost to us.
 * **Estate agency**: Gareth Friend, of local estate agents [Carmen Friend](https://www.carmanfriend.com/)
   has very kindly offered his services free of charge.
+* **Post-adaptation tidying**: Ola & Iveta pledged to be on hand to tidy up,
+  decorate and generally help out after any adaptation work is complete.
 
 [Main page](/) | [Fundraising site](https://www.gofundme.com/f/a-home-for-mo)
