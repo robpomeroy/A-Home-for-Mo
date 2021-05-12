@@ -6,12 +6,14 @@ In addition to the amounts donated, some fabulous people have offered their
 suport in other ways. These pledges are incredible and may offer some
 inspiration for other ways to help with this campaign.
 
-* **Press release**: Hannah, a PR manager, has gifted her time to write a press
-  release for the campaign.
-* **Interest-free loan**: to our utter astonishment some very kind friends have
-  offered, in place of bridging finance, an interest-free loan. This could
-  enable us to complete the purchase of the new home before we complete the
-  sale of our current home - *without* recourse to expensive finance.
+* **Press release**: Hannah, a PR manager, has gifted her time to write and
+  submit the [press release](press) for the campaign. She has also offered
+  invaluable PR support.
+* **Interest-free loan**: to our utter astonishment some very kind friends (two
+  different families) have offered, in place of bridging finance, interest-free
+  loans. This could enable us to complete the purchase of the new home before we
+  complete the sale of our current home - *without* recourse to expensive
+  finance.
 * **Fundraising show**: our good friend
   <a href="https://chestertowncriers.com/profile-david-mitchell/" target="_blank">David Mitchell</a>,
   renowned after-dinner speaker and Chester's own Town Crier, has amazingly

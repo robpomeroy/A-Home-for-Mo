@@ -4,6 +4,9 @@ weight: 5
 header_menu: true
 ---
 
+***UPDATE:*** *bridging finance may longer be necessary - see the
+[pledges](pledges) page!*
+
 We're all scratching our heads how to do this! Bridging finance might be one way
 to allow my parents to buy the new house *before* the sale completed on the
 currrent house. This would mean my adaptations could be completed before I move
