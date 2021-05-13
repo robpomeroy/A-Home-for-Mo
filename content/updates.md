@@ -2,6 +2,26 @@
 title: "Campaign updates"
 ---
 
+## Thursday, 13 May 2021: Rob
+
+![UCB 2](/images/day_008.png)
+
+Sharon and I had a great (nerve-wracking) opportunity to speak live on UCB this
+morning about special needs parenting and the ongoing campaign to raise money
+towards a home for Morgan.
+
+This interview focuses a *lot* on our faith and how it affects our story. If
+that's not your jam, we understand, no problem, we love you all the same.
+{{<icon class="fa fa-heart">}}
+
+If you'd like to listen, most of it is here:
+https://player.lightcast.com/zYTOzITN (we spoke for a few more minutes after
+this recording ends).
+
+Thank you UCB and to all those who made this happen! We have some further
+possible opportunities to tell our story in the media - we'll let you know if
+they come to fruition.
+
 ## Friday, 7 May 2021: Rob
 
 ![thank you](/images/thank-you.jpg)
