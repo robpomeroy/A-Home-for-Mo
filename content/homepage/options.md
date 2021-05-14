@@ -7,10 +7,10 @@ header_menu: true
 ***UPDATE:*** *bridging finance may longer be necessary - see the
 [pledges](pledges) page!*
 
-We're all scratching our heads how to do this! Bridging finance might be one way
-to allow my parents to buy the new house *before* the sale completed on the
-currrent house. This would mean my adaptations could be completed before I move
-in.
+We're all scratching our heads how to do this! Bridging finance (borrowing the
+cost of the new house) might be one way to allow my parents to buy the new house
+*before* the sale completed on the currrent house. This would mean my
+adaptations could be completed before I move in.
 
 Bridging finance is not cheap. Neither are the many things I will need done to
 do to the new house (many of which were done for my current home). Disabled
@@ -33,7 +33,7 @@ home:
 | Facilitate parking for care staff | &pound;7,500 |
 | Ramped access | &pound;10,000 |
 | Wet room | &pound;15,000 |
-| Bridging loan (3 months) | &pound;15,000 |
+| Interest on bridging loan (3 months) | &pound;15,000 |
 | Ceiling track hoists | &pound;25,000 |
 | House price differential | &pound;200,000+ |
 | Total | &pound;300,000+ |
