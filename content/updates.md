@@ -4,7 +4,7 @@ title: "Campaign updates"
 
 ## Thursday, 13 May 2021: Rob
 
-![UCB 2](/images/day_008.png)
+<iframe style="min-width: 100%; min-height: 270px;" src="https://www.lightcast.com/embed/player.php?responsive=1&skinColor=000000&autoPlay=0&tvButtonID=ucbplayer&id=369325&type=" frameborder="0" allowfullscreen></iframe>
 
 Sharon and I had a great (nerve-wracking) opportunity to speak live on UCB this
 morning about special needs parenting and the ongoing campaign to raise money
@@ -14,13 +14,16 @@ This interview focuses a *lot* on our faith and how it affects our story. If
 that's not your jam, we understand, no problem, we love you all the same.
 {{<icon class="fa fa-heart">}}
 
-If you'd like to listen, most of it is here:
-https://player.lightcast.com/zYTOzITN (we spoke for a few more minutes after
-this recording ends).
+You can listen to the show using the embedded player above, or by following
+[this link](https://player.lightcast.com/zYTOzITN). We had an opportunity to
+speak for a few more minutes after this recording ends.
 
 Thank you UCB and to all those who made this happen! We have some further
 possible opportunities to tell our story in the media - we'll let you know if
 they come to fruition.
+
+Find out more about Ruth O'Reilly-Smith's show *This is my story*, on
+[UCB's website](https://www.ucb.co.uk/ruth).
 
 ## Friday, 7 May 2021: Rob
 

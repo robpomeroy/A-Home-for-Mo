@@ -3,7 +3,7 @@ title: "Hello!"
 weight: 1
 ---
 
-**New**: read our [campaign updates here](updates)
+> **For the latest news, read our [campaign updates](updates).**
 
 {{<youtube kGM9KMMgS-A >}}
 
