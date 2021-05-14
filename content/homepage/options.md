@@ -20,7 +20,7 @@ compared to the house moving process, so it's unlikely the timescales will line
 up. We will however still pursue this option, in the hope it will cover some of
 the costs.
 
-You'll remember that but for my addtitional needs, my family would not be
+You'll remember that but for my additional needs, my family would not be
 moving. Here is an estimate of some possible costs in finding me a suitable new
 home:
 
