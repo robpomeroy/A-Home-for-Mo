@@ -11,8 +11,7 @@ morning about special needs parenting and the ongoing campaign to raise money
 towards a home for Morgan.
 
 This interview focuses a *lot* on our faith and how it affects our story. If
-that's not your jam, we understand, no problem, we love you all the same.
-{{<icon class="fa fa-heart">}}
+that's not your jam, we understand, no problem. {{<icon class="fa fa-heart">}}
 
 You can listen to the show using the embedded player above, or by following
 [this link](https://player.lightcast.com/zYTOzITN). We had an opportunity to
