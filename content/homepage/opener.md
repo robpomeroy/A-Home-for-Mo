@@ -5,7 +5,7 @@ weight: 1
 
 > **For the latest news, read our [campaign updates](updates).**
 
-{{<youtube kGM9KMMgS-A >}}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/videoseries?list=PL-7cWd7RXBRgQx3oW2ReYNomoeCLqyHkY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="A Home for Mo YouTube videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Thanks so much for visiting my website! I cannot talk or communicate, so my dad
 made this website for me, to tell my story.
