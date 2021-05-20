@@ -66,3 +66,23 @@ table tbody > tr:last-child > td {
     background-color: rgb(69, 80, 185);
     font-weight: bold;
 }
+
+.tshirt {
+    float: right;
+    padding-left: 20px;
+    max-height: 200px;
+}
+.button {
+    text-decoration: none;
+    background-color: rgb(242, 239, 232);
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;    
+    border-radius: 6px;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, .2);
+}
+.button:hover {
+    background-color: rgb(255, 254, 219);
+}

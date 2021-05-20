@@ -4,6 +4,8 @@ weight: 6
 header_menu: true
 ---
 
+*[Click here](ways-to-help) for lots of ideas how you can help!*
+
 To do any of this, I'm going to need help. Help from our family, friends and
 strangers. There's no getting round it: the things I most need, to find this
 new home and keep my family together, are love and money. (Not
@@ -29,3 +31,5 @@ Some people have pledged their support in other, innovative ways. Read more
 about these on the [pledges](pledges) page. They're inspirational!
 
 [Contact details are below](#contact).
+
+*[Click here](ways-to-help) for lots of ideas how you can help!*
