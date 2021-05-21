@@ -4,6 +4,8 @@ weight: 3
 header_menu: true
 ---
 
+{{<menu-buttons>}}
+
 I live with my family in a lovely home in Chester, England. As I've grown older,
 and needed more and more help, the house has become too small for me. Soon I
 will need two carers with me, round the clock. I need more space for my

@@ -4,6 +4,8 @@ weight: 5
 header_menu: true
 ---
 
+{{<menu-buttons>}}
+
 We're all scratching our heads how to do this! Bridging finance (borrowing the
 cost of the new house) might be one way to allow my parents to buy the new house
 *before* the sale completed on the currrent house. This would mean my
