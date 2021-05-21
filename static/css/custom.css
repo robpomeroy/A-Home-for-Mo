@@ -70,7 +70,7 @@ table tbody > tr:last-child > td {
 .tshirt {
     float: right;
     padding-left: 20px;
-    max-height: 200px;
+    max-height: 100px;
 }
 .button {
     text-decoration: none;

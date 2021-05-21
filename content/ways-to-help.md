@@ -2,6 +2,9 @@
 title: "Ways to help"
 ---
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v10.0" nonce="b1pztNYR"></script>
+
 Other than [donating](https://www.gofundme.com/f/a-home-for-mo) here are some
 more ways you might like to help. Some of them will only take 30 seconds of
 your time:
@@ -12,7 +15,7 @@ Email subject and body URL encoded by https://www.urlencoder.org/
 
 ## Small
 <img class="tshirt" src="/images/t-shirt-S-s.png" />
-* Personalise and send <a class="button" href="mailto:replace@this.email?subject=A%20Home%20fo%20Mo&body=Hi%2C%0D%0A%0D%0AJust%20wondering%20if%20you%20might%20be%20able%20to%20help%20at%20all%3F%20My%20friends%20the%20Pomeroys%20are%20on%20a%20mission%20to%20provide%20a%20suitable%20home%20for%20their%20profoundly%20disabled%20son%20Morgan%20who%20is%2016.%20They%27ve%20set%20up%20a%20GoFundMe%20campaign%20to%20raise%20funds%20and%20awareness.%0D%0A%0D%0AThere%20is%20more%20information%20here%3A%20https%3A%2F%2Fahomeformo.com%20%0D%0A%0D%0AIf%20you%E2%80%99re%20able%20to%20contribute%20to%20their%20GoFundMe%20campaign%20I%E2%80%99d%20really%20appreciate%20it%20and%20I%20know%20they%20will%20too.%20%0D%0A%0D%0ABest%20wishes.">this email</a> to your contacts.
+* Personalise and send <a class="button" href="mailto:replace@this.email?subject=A%20Home%20fo%20Mo&body=Hi%2C%0D%0A%0D%0AJust%20wondering%20if%20you%20might%20be%20able%20to%20help%20at%20all%3F%20My%20friends%20the%20Pomeroys%20are%20on%20a%20mission%20to%20provide%20a%20suitable%20home%20for%20their%20profoundly%20disabled%20son%20Morgan%20who%20is%2016.%20They%27ve%20set%20up%20a%20GoFundMe%20campaign%20to%20raise%20funds%20and%20awareness.%0D%0A%0D%0AThere%20is%20more%20information%20here%3A%20https%3A%2F%2Fahomeformo.com%20%0D%0A%0D%0AIf%20you%E2%80%99re%20able%20to%20contribute%20to%20their%20GoFundMe%20campaign%20I%E2%80%99d%20really%20appreciate%20it%20and%20I%20know%20they%20will%20too.%20%0D%0A%0D%0ABest%20wishes.">this&nbsp;email</a> to your contacts.
 * Watch the
   [A Home for Mo YouTube playlist](https://www.youtube.com/playlist?list=PL-7cWd7RXBRgQx3oW2ReYNomoeCLqyHkY)
   and subscribe.
@@ -21,6 +24,8 @@ Email subject and body URL encoded by https://www.urlencoder.org/
 * Buy a copy of
   [Rob's sci-fi novel, Insensate](https://www.smashwords.com/books/view/78386) -
   choose your own price!
+* Like or share Mo's Facebook page:
+<div style="padding-left: 70px; margin-bottom: 20px; width: 100%;" class="fb-like" data-href="https://www.facebook.com/aHomeForMo" data-width="" data-layout="standard" data-action="like" data-size="large" data-share="true"></div>
 
 <div style=" clear: both; width: 100%;"></div>
 

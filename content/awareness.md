@@ -4,7 +4,7 @@ title: "Raising awareness"
 
 ## TTTS
 
-<div style="float: right; width: 200px; font-size: 0.7em; line-height: 1.5; text-align: center;">
+<div style="float: right; max-width: 33%; font-size: 0.7em; line-height: 1.5; text-align: center; padding-top: 20px;">
   <a href="https://commons.wikimedia.org/wiki/File:Twin_to_Twin_transfusion_syndrome.svg" target="_blank">
     <img
       src="/images/Twin_to_Twin_transfusion_syndrome.svg"
@@ -16,17 +16,19 @@ title: "Raising awareness"
 
 Morgan and James are survivors of
 [Twin-to-Twin-Transfusion syndrome](https://en.wikipedia.org/wiki/Twin-to-twin_transfusion_syndrome).
-This condition, which can only occur in monozygotic pregnancies (single egg,
-such as with identical twins). It involves incomplete splitting of the placenta,
-such that some blood passes from one twin to the other, rather than only from
-mother to baby.
+This condition can only occur in identical twin pregnancies and involves
+incomplete splitting of the placenta. This means that some blood, carrying
+oxygen and nutrion flows from one twin to the other, instead only from mother to
+baby. This effectively means that one of the twins receives secondhand blood.
 
-Mo and James were born in 2004. Medical technology and possible interventions
-have developed and improved in the intervening period, but the procedures that
-may assist (e.g.
+Mo and James were born in 2004. Medicine has improved since then, but
+treatment (e.g.
 [laser therapy](https://www.nice.org.uk/guidance/ipg198/resources/treatment-of-twintotwin-transfusion-syndrome-with-intrauterine-laser-ablation-306074989)
-remain risky and costly. Further work in this area will help improve survival
-rates and outcomes for identical twin pregnancies faced with this condition.
+remains risky and expensive. Without help, there is a very serious risk that
+one or both babies will die before birth - or even if they survive, they may
+be extremely unwell and/or disabled. TTTS babies tend to be delivered
+prematurely and are often sicker than other babies born prematurely. More work
+is needed to improve survival rates and outcomes.
 
 If you are concerned about this condition, please consider supporting the
 [Twins trust TTTS Appeal](https://twinstrust.org/get-involved/appeals/ttts-appeal.html).
@@ -35,7 +37,7 @@ you may wish to connect with, if affected by this condition personally.
 
 ## Adapted housing
 
-<div style="float: right; width: 300px; font-size: 0.7em; text-align: center;">
+<div style="float: right; max-width: 33%; font-size: 0.7em; text-align: center; padding-top: 20px;">
   <a href="https://unsplash.com/photos/gRTzhQsiVG0" target="_blank">
     <img
       src="/images/yomex-owo-gRTzhQsiVG0-unsplash.jpg"
