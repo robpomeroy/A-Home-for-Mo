@@ -6,6 +6,8 @@ In addition to the amounts donated, some fabulous people have offered their
 suport in other ways. These pledges are incredible and may offer some
 inspiration for other ways to help with this campaign.
 
+* **Sponsored walk**: Patricia is going to undertake a sponsored walk in support
+  of the campaign.
 * **Press release**: Hannah, a PR manager, has gifted her time to write and
   submit the [press release](press) for the campaign. She has also offered
   invaluable PR support.
