@@ -2,6 +2,84 @@
 title: "Campaign updates"
 ---
 
+## Tuesday, 29 June 2021: Rob
+
+![Missions](/images/AHFM-Missions-2021-06-29.jpg)
+
+Hi!
+
+We're probably overdue an update. In today's update, we'll focus on our missions.
+
+* Mission 1: find the funds
+* Mission 2: ready to sell
+* Mission 3: find the house
+* Mission 4: ready to move
+
+Thank you once more to everyone who is so generously helping us with mission 1
+(find the funds). The fundraising stands at nearly £75,000, which is awesome.
+
+Over the last few weeks, we've been beavering away at mission 2 (get ready to
+sell). We've made great progress, tidying, smartening up the house and
+decluttering.
+
+Much decluttering has been needed, especially in the loft. We've lived in our
+current home for nearly fourteen years, during a period where we've had
+decreasing capacity for anything beyond basic survival and meeting our boys'
+needs. And that really showed in the state of our loft! The easiest option for
+so many things has been "just put it in the loft for now."
+
+That has meant the loft has held many things, e.g.:
+
+* Ornaments we put away during James' most destructive phases when he was
+  younger (and which we didn't get out again)
+* Pictures that we brought from our last home and just haven't got round to
+  putting up
+* Things we've put in the loft to make space for all Morgan's supplies (CDs,
+  DVDs, spare bedding and even two dining chairs!)
+* Things we thought we might need one day
+* Things that gave us decision paralysis
+
+It's not just the loft. Over the last few months I have scanned and shredded
+thousands of documents. Going paperless releases space and reduces clutter.
+We're quite close to being able to part with our two-drawer filing cabinet,
+which a few months ago was bursting at the seams, with unfiled paperwork hiding
+All Over The House.
+
+Mission 2 also includes replacing our roof. It needed doing. It would have come
+up on a survey. Replacing it will absolutely increase the "wow" factor. On
+balance, we think it's well worthwhile.
+
+We're also repainting various rooms. The hall, stairs and landing are finally
+done (after being half-done for an embarrassing number of years). The lounge is
+being painted this week. Sharon is painting the kitchen. And we're planning to
+paint the exterior of the house too, which really has needed doing since we
+moved in. (We apologise profusely to our long-suffering neighbours!)
+
+We're working on mission 3 (find the house). We actually went to view a house
+today. Very interesting, but we're not sure if we can make the space work. If
+it's still on the market when we're finally ready to sell, we'll almost
+certainly go back for another look and to measure up carefully.
+
+We have active searches on Rightmove, OnTheMarket and Zoopla. Even with really
+tight search parameters, still the vast majority of properties that come up are
+unsuitable. If you know of a property in the Chester area that may be suitable
+that is NOT on the market, please let us know: [ahfm@pomeroy.me](mailto:ahfm@pomeroy.me).
+
+Mission 4 (get ready to move) involves preparing the new house for Morgan and
+James. We can't yet predict what that will entail. That depends on the outcome
+of mission 3.
+
+So: we've come a long way and there's a long way yet to go. We are facing many
+challenging decisions, often which have no "right" answer (that's life, isn't
+it)! We need wisdom, patience and clarity. If you pray, do pray for us?
+
+Thank you so much for following us on this journey. We literally could not do it
+without you.
+
+God bless,
+
+Rob & Sharon
+
 ## Wednesday, 19 May 2021: Rob
 
 Today promises to be quite an exciting day! We're already off to a storming
