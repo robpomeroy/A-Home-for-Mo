@@ -34,23 +34,8 @@ home:
 | Wet room | &pound;15,000 |
 | Interest on bridging loan (3 months) | &pound;15,000 |
 | Ceiling track hoists | &pound;25,000 |
-| House price differential | &pound;200,000+ |
-| Total | &pound;300,000+ |
+| Total | &pound;100,000 |
 
-Raising any money at all increases our options. There are very few houses on
-the market that are suitable. If I can raise some money to help, this gives us
-a chance to consider the more expensive houses that are on the market. We've
-seen houses that *might* work costing anywhere from &pound;500,000 to
-&pound;1.5m!
-
-Most houses aren't already adapted, so there are the costs for that, which
-could be around &pound;100,000. This is all a **lot** more than I have in my
-piggy bank! {{<icon class="fa fa-money">}} *Any* amount I
-can raise widens our options.
-
-Here's a good example of a house that's *almost* right. It's not quite in the
-right area, and it might require some sound insulation, but you get the idea.
-The asking price is &pound;600,000. Our house is worth about half that!
-
-<a href="https://www.rightmove.co.uk/properties/72688284" target="_blank"><img src="images/capenhurst-wheelchair-adapted-house.jpg" alt=/>
-<i>wheelchair adapted house in Capenhurst, on RightMove, &pound;600k</i></a>
+Most houses aren't already adapted, and the costs for adaptations are all a
+**lot** more than I have in my piggy bank! {{<icon class="fa fa-money">}} *Any*
+amount I can raise widens our options.
