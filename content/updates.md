@@ -28,6 +28,10 @@ market in September.
 
 Love from all of us, Rob, Sharon, Mo &amp; James
 
+PS Near the start of this journey, Rob had vaguely wondered how frequently
+criminals might attempt to use fundraising sites to launder money. Based on the
+above, attempts are perhaps all too common.
+
 ## Tuesday, 29 June 2021: Rob
 
 ![Missions](/images/AHFM-Missions-2021-06-29.jpg)
