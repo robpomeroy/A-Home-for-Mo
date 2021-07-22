@@ -12,11 +12,11 @@ they will not accept funds raised through campaigns like this!
 We had previously believed that any spare funds raised (beyond what’s needed for
 adaptations) could “extend our reach”, to slightly more expensive properties.
 But it appears that would only be possible if we weren’t ALSO taking on a
-mortgage. So if we had indeed raised &pound;300k, and only needed &pound;100k
-for adaptations, I’m not sure what we would do with the excess &pound;200k if we
-couldn’t spend it. Send it back again?!
+mortgage. So if we had indeed raised our previous target of &pound;300k, and
+only needed &pound;100k for adaptations, I’m not sure what we would do with the
+excess &pound;200k if we couldn’t spend it. Send it back again?!
 
-To cut a long, slightly confusing story short, we are lowering the fund raising
+To cut a long, slightly confusing story short, we are lowering the fundraising
 target. It’s a very weird situation and we are of course still complete amateurs
 at this.
 
