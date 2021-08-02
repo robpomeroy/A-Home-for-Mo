@@ -22,7 +22,7 @@ us to say that they might be able to help. They were willing to transform the
 funds raised into a grant, together with any paperwork necessary to satisfy a
 lender that there were no strings attached. In addition, they have offered
 to help with the costs of adaptation. What a mind-blowing double offer! The
-funds transfomation idea is great to have as an option, for when we start
+funds transformation idea is great to have as an option, for when we start
 looking in earnest for Morgan's home (probably in September).
 
 And then more good news: I (Rob) have just come off the phone to Imogen. A
