@@ -6,7 +6,7 @@ title: "Campaign updates"
 
 **Good news, hot off the press -  in more ways than one.**
 
-![Sunday Times](/images/2021-08-01_SundayTimes-crop.jpg)
+[![Sunday Times](/images/2021-08-01_SundayTimes-crop.jpg)](https://www.thetimes.co.uk/article/we-raised-80k-to-give-morgan-a-better-life-banks-wont-let-us-spend-it-gj9nf723p)
 
 You may have seen
 [our story in the Sunday Times](https://www.thetimes.co.uk/article/we-raised-80k-to-give-morgan-a-better-life-banks-wont-let-us-spend-it-gj9nf723p)
