@@ -4,7 +4,9 @@ title: "Raising awareness"
 
 Will you help Morgan and others like him?
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-home-for-mo/widget/medium/" style="width: 478px; margin: auto;"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+<iframe src="https://www.gofundme.com/f/a-home-for-mo/widget/medium/" frameborder="0" scrolling="no" style="display: block; width: 478px; height: 180px; margin: auto;">
+    Widget can't display. Please visit <a href="https://www.gofundme.com/f/a-home-for-mo" target="_blank">GoFundMe</a>.
+</iframe>
 
 ## Adapted housing
 
