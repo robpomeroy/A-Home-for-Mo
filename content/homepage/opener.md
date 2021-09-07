@@ -16,7 +16,7 @@ below.
 
 Love, Mo {{<icon class="fa fa-smile-o">}}
 
-<iframe src="https://www.gofundme.com/f/a-home-for-mo/widget/medium/" frameborder="0" scrolling="no" style="display: block; width: 478px; height: 180px; margin: auto;">
+<iframe src="https://www.gofundme.com/f/a-home-for-mo/widget/medium" frameborder="0" scrolling="no" style="display: block; width: 478px; height: 180px; margin: auto;">
     Widget can't display. Please visit <a href="https://www.gofundme.com/f/a-home-for-mo" target="_blank">GoFundMe</a>.
 </iframe>
 
