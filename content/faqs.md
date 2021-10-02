@@ -7,6 +7,52 @@ title: "FAQs"
     caption="*James on the left, Morgan on the right: incubator transport*"
 >}}
 
+**Q: What are you looking for in the new home?**
+
+A: As with any house purchase, some things are non-negotiable and others are
+nice-to-have! The non-negotiables:
+
+* **Privacy***. This essentially means a separate "wing" or annex for Mo, where sound
+  doesn't travel too much into the main house. Morgan can be quite noisy, at any
+  time of the day! This also means that he can enjoy things like music therapy
+  without worrying about the impact on anyone else.
+* **Space*** for Mo: Morgan needs enough room for his hospital bed, specialist bath,
+  wheelchairs, disability equipment & toys, medicines and other supplies.
+* **Space*** for the family: over the last decade, there has been very little
+  opportunity for a social life. We are hoping we will be able to have friends
+  and family round for a meal - or maybe even to stay overnight.
+* Proximity to essential services: hospital, school, GP & pharmacy are all
+  regular, essential parts of Morgan's life. Further, Morgan's care package is
+  postcode dependent, so moving out of the area is not an option. It has to be
+  in Chester.
+* Tranquility: we've come to realise that some measure of tranquility is
+  essential for our mental health and the wellbeing of the whole family.
+
+**Privacy and space are the main reasons for moving.*
+
+The nice-to-haves:
+
+* A garden! We'd love to have a garden for everyone to enjoy - especially
+  Sharon, for whom gardening is the best therapy. We have been extremely blessed
+  in our current house, with a large and beautiful garden and we don't
+  necessarily expect to have the same again. But it would be lovely if it were
+  large enough to enjoy and maybe have the occasional barbecue, British weather
+  permitting!
+* Space for music: Sharon and Rob are both musicians and the boys love music.
+  Morgan particularly appreciates live music. It would be great to have enough
+  room for music therapy in the home!
+* Parking: at any one time, we might need to accommodate six or more vehicles -
+  ours, Morgans carers' & therapists and visitors. We'd prefer this were
+  possible without being a complete nuisance to our neighbours!
+
+If you know of a house **that's not on the market** (we're aware of everything
+on RightMove, OnTheMarket, Zoopla, etc.) that fits the bill, do let us know! For
+those who know Chester the areas of particular interest are Boughton,
+Huntington, Vicars Cross and Upton, provided it's not on a speed bump route (due
+to Morgan's travel sickness). Properties with an annex or large double garage
+(to convert) are most likely to fit the bill. Contact details are at the bottom
+of [the main page](https://ahomeformo.com/).  {{<icon class="fa fa-smile-o">}}
+
 **Q: Have to tried DIY SOS?**
 
 We've been asked this quite a few times and love the fact that people think of
@@ -16,12 +62,6 @@ who **own one single property**" [emphasis added]. This doesn't fit our
 circumstances because (a) we do not yet own the house that will need to be
 adapted, and (b) at that point, if things work out the way we anticipate, we
 will own two houses (albeit briefly and backed by short-term borrowing).
-
-**Q: What do you most need in a home?**
-
-A: Sufficient ground floor space for Mo (bedroom, bathroom, lounge and utility
-room). Privacy (when required) for the rest of the family. In practice this
-means annex-style accommodation.
 
 **Q: Can't you extend your existing house?**
 
@@ -48,7 +88,6 @@ prescriptions. His medicine cabinet looks like a pharmacy!
     alt="photograph of a feeding pump and stand"
     caption="*a feeding pump, with flexitainer and giving set attached*"
 >}}
-
 
 Add to that two large wheelchairs. Maintaining wheelchair access means reducing
 available space in any room through which the chairs pass. It's a kind of
