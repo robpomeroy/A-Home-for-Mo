@@ -9,10 +9,11 @@ catching COVID. We put our house on the market in September and agreed a sale
 in about a week. After that, the pressure was on to find the new home.
 
 With very little on the market, even less that was suitable, we placed an offer,
-which was then accepted, on a house in Mickle Trafford, a village just outside
-Chester. This house has a detached double garage, which we plan to covert into
-Morgan's quarters. And there's a gap of about 12 feet/3.7 metres between the
-garage and the house, where we will build a new staff/kitchen/store room.
+which was then accepted, on a lovely house in Mickle Trafford, a village just
+outside Chester. This house has a detached double garage, which we plan to
+covert into Morgan's quarters. And there's a gap of about 12 feet/3.7 metres
+between the garage and the house, where we will build a new staff/kitchen/store
+room.
 
 Originally, we'd hoped to do the work before moving in, but with planning
 applications taking 6 months, we could not ask our buyers or seller to wait
