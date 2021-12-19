@@ -11,7 +11,7 @@ in about a week. After that, the pressure was on to find the new home.
 With very little on the market, even less that was suitable, we placed an offer,
 which was then accepted, on a lovely house in Mickle Trafford, a village just
 outside Chester. This house has a detached double garage, which we plan to
-covert into Morgan's quarters. And there's a gap of about 12 feet/3.7 metres
+convert into Morgan's quarters. And there's a gap of about 12 feet/3.7 metres
 between the garage and the house, where we will build a new staff/kitchen/store
 room.
 
