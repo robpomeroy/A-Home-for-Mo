@@ -20,7 +20,7 @@ up. We will however still pursue this option, in the hope it will cover some of
 the costs.
 
 You'll remember that but for my additional needs, my family would not be
-moving. Here is an estimate of some possible costs in finding me a suitable new
+moving. Here is an example of some possible costs in finding me a suitable new
 home:
 
 | Item | Estimated cost |
@@ -32,7 +32,7 @@ home:
 | Facilitate parking for care staff | &pound;7,500 |
 | Ramped access | &pound;10,000 |
 | Wet room | &pound;15,000 |
-| Interest on bridging loan (3 months) | &pound;15,000 |
+| Private element of building works | &pound;15,000 |
 | Ceiling track hoists | &pound;25,000 |
 | Total | &pound;100,000 |
 
