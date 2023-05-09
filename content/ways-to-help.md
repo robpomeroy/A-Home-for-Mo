@@ -22,8 +22,7 @@ Email subject and body URL encoded by https://www.urlencoder.org/
 * <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Please consider supporting this amazing cause to find a home for Mo, a profoundly disabled boy. Thank you! #ahfm #aHomeForMo" data-url="https://ahomeformo.pomeroy.me" data-via="robpomeroy" data-hashtags="ahomeformo" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> about a Home for Mo
 * Use the [GoFundMe sharing options](https://www.gofundme.com/f/a-home-for-mo/share).
 * Buy a copy of
-  [Rob's sci-fi novel, Insensate](https://www.smashwords.com/books/view/78386) -
-  choose your own price!
+  [Rob's sci-fi novel, Insensate](https://www.smashwords.com/books/view/78386)
 * Like or share Mo's Facebook page:
 <div style="padding-left: 70px; margin-bottom: 20px; width: 100%;" class="fb-like" data-href="https://www.facebook.com/aHomeForMo" data-width="" data-layout="standard" data-action="like" data-size="large" data-share="true"></div>
 
@@ -31,9 +30,8 @@ Email subject and body URL encoded by https://www.urlencoder.org/
 
 ## Medium
 <img class="tshirt" src="/images/t-shirt-M-s.png" />
-* Run a fundraising even in your community - a bake sale, a board games evening,
+* Run a fundraising event in your community - a bake sale, a board games evening,
   a talent show, shave your hair or beard, a sponsored car wash - anything!
-  (Please observe COVID-safe precautions.)
 * Run a social media campaign - it is very hard to sustain momentum,
   singlehandedly; continually raising the profile of the campain is totally
   invaluable.
