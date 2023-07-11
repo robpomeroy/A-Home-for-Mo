@@ -11,13 +11,3 @@ Desktop.ini
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-# Auto-generated tag files
-tags
-
-# Spreadsheet & Office files
-Costs.xlsx
-~$*
-
-# Note to self!
-NoteToSelf.txt

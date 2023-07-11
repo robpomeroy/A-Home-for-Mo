@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Authors - Author - A Home for Mo</title>
+        <link>http://ahfm.pomeroy.me/authors/</link>
+        <description>Authors - Author - A Home for Mo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Wed, 14 Jun 2023 14:19:34 &#43;0100</lastBuildDate><atom:link href="http://ahfm.pomeroy.me/authors/" rel="self" type="application/rss+xml" /><item>
+    <title>Mo</title>
+    <link>http://ahfm.pomeroy.me/authors/mo/</link>
+    <pubDate>Wed, 14 Jun 2023 14:19:34 &#43;0100</pubDate><author>
+        <name>Rob Pomeroy</name>
+    </author><guid>http://ahfm.pomeroy.me/authors/mo/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

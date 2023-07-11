@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mo - Author - A Home for Mo</title>
+        <link>http://ahfm.pomeroy.me/authors/mo/</link>
+        <description>Mo - Author - A Home for Mo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Wed, 14 Jun 2023 14:19:34 &#43;0100</lastBuildDate><atom:link href="http://ahfm.pomeroy.me/authors/mo/" rel="self" type="application/rss+xml" /><item>
+    <title>Welcome</title>
+    <link>http://ahfm.pomeroy.me/welcome/</link>
+    <pubDate>Wed, 14 Jun 2023 14:19:34 &#43;0100</pubDate><author>
+                    <name>Mo</name>
+                </author><guid>http://ahfm.pomeroy.me/welcome/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/featured/Welcome.jpg" referrerpolicy="no-referrer">
+            </div>Thanks so much for visiting my website! I cannot talk or communicate, so my dad made this website for me, to tell my story.
+Love, Mo <i class="fa fa-heart"></i>]]></description>
+</item></channel>
+</rss>

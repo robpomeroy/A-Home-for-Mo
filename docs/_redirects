@@ -1,5 +1,0 @@
-# Netlify-specific redirection file.
-# See documentation: https://docs.netlify.com/routing/redirects/
-
-# Redirect URL for Patricia's mini site
-https://ahomeformo.com/patricia http://patricia.ahomeformo.com 301
