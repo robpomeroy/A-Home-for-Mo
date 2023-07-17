@@ -1,4 +1,4 @@
-baseURL = 'http://ahfm.pomeroy.me/'
+baseURL = 'https://ahomeformo.com/'
 defaultContentLanguage = "en"
 languageCode = 'en-gb'
 title = 'A Home for Mo'
