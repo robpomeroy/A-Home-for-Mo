@@ -9,7 +9,7 @@ were born in 2004, 10 weeks early. We are
 survivors of [twin-to-twin transfusion
 syndrome](https://en.wikipedia.org/wiki/Twin-to-twin_transfusion_syndrome).
 Because of this condition, I am profoundly disabled
-:(fa fa-wheelchair-alt):, quadriplegic with severe spastic
+:(fa fa-wheelchair):, quadriplegic with severe spastic
 cerebral palsy, epilepsy and profound learning difficulties. We live with our
 Mum &amp; Dad in Chester in the UK.
 
@@ -38,7 +38,7 @@ Here's a bit more about me and my twin James.
 - **Nickname:** Mo
 - **Likes:** cuddles, good music, being talked to, hot baths
 - **Dislikes:** sudden noises, being in pain, bumpy journeys on the school bus
-- **Main challenges:** severe spastic cerebral palsy, epilepsy, no speech,
+- **Main challenges:** GI dystonia, severe spastic cerebral palsy, epilepsy, no speech,
   vision impairment, profound and multiple learning difficulties and more
 - **Superpower:** being gorgeous
 
@@ -48,7 +48,7 @@ Here's a bit more about me and my twin James.
 - **Likes:** car numberplates, jigsaws
 - **Dislikes:** changes of plan
 - **Main challenges:** autistic spectrum disorder, anxiety, severe learning
-  difficulties, epilepsy
+  difficulties, short gut syndrome, epilepsy
 - **Superpower:** knowing everyone's car
 
 # TTTS

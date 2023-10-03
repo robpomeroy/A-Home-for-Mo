@@ -47,14 +47,14 @@ The nice-to-haves:
   complete nuisance to our neighbours! We can fit four or five cars on the new
   drive.
 
-**Q: Did you DIY SOS?**
+**Q: What about DIY SOS?**
 
-We were asked this quite a few times and love the fact that people think of us
+We were asked this quite a few times and love the fact that people thought of us
 for this show. Unfortunately, the
-[DIY SOS application form](https://www.bbc.co.uk/send/u19819112) says, "we can
+[DIY SOS application form](https://www.bbc.co.uk/send/u19819112) said, "we can
 only accept applications from UK homeowners of private residences who **own one
 single property**" [emphasis added]. This didn't fit our circumstances because
-we did not yet own the house that would need to be adapted
+we did not yet own the house that would need to be adapted.
 
 **Q: Couldn't you extend your existing house?**
 
