@@ -5,7 +5,7 @@ I live with my family in Chester, England. As I've grown older, and needed more
 and more help, our previous house became too small for me. I now have two carers
 with me, round the clock. I needed more space for my supplies, my equipment and
 my carers. And it's important to keep my family together. So my mum and dad
-workied hard to find us a new home.
+worked hard to find us a new home.
 
 ## Why a new home?
 
