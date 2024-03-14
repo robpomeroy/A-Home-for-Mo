@@ -28,3 +28,7 @@ HUGO_VERSION = "0.113.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "*"
+  to = "https://morgan.pomeroy.me"
