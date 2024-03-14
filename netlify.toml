@@ -32,3 +32,22 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
   from = "*"
   to = "https://morgan.pomeroy.me"
+  force = true
+
+[[redirects]]
+  from = "/"
+  to = "https://morgan.pomeroy.me"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://morgan.pomeroy.me"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://ahomeformo.com"
+  to = "https://morgan.pomeroy.me"
+  status = 301
+  force = true
